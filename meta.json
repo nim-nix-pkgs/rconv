@@ -79,6 +79,7 @@
   "web": "https://github.com/prefixaut/rconv",
   "refs": [
     "refs/heads/develop",
+    "refs/heads/feature/memo-cleanup",
     "refs/heads/master",
     "refs/tags/v0.1.0",
     ""
